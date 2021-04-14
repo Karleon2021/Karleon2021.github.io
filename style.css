@@ -181,9 +181,11 @@ li{
 }
 .container-image{
     display: flex;
+    align-items: center;
 }
 .container-image img{
-    width: 100%;
+    width: 50%;
+
 }
 .links-container{
     display: flex;
